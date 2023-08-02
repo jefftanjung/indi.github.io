@@ -1,2 +1,0 @@
-# indi.github.io
-ayangindi
